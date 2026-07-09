@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
+## Math
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/amansinghrp/DSA/tree/master/0060-permutation-sequence) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/amansinghrp/DSA/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
