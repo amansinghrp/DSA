@@ -4,11 +4,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/amansinghrp/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amansinghrp/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/amansinghrp/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amansinghrp/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
