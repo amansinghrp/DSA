@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/amansinghrp/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amansinghrp/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
+| [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 ## Backtracking
 |  |
 | ------- |
@@ -31,8 +32,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amansinghrp/DSA/tree/master/0037-sudoku-solver) |
+| [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 ## Matrix
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amansinghrp/DSA/tree/master/0037-sudoku-solver) |
+## String
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+## Trie
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+## Memoization
+|  |
+| ------- |
+| [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
