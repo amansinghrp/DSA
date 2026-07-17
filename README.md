@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
 ## Backtracking
 |  |
 | ------- |
@@ -59,4 +60,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
+## Two Pointers
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
+## Sorting
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
