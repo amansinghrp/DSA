@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amansinghrp/DSA/tree/master/0014-longest-common-prefix) |
 | [0037-sudoku-solver](https://github.com/amansinghrp/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/amansinghrp/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amansinghrp/DSA/tree/master/0051-n-queens) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0014-longest-common-prefix](https://github.com/amansinghrp/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/amansinghrp/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 ## Memoization
 |  |
