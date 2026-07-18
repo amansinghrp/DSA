@@ -42,10 +42,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
 ## Trie
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
