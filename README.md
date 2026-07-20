@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/amansinghrp/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+| [0686-repeated-string-match](https://github.com/amansinghrp/DSA/tree/master/0686-repeated-string-match) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
+## String Matching
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/amansinghrp/DSA/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
