@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0014-longest-common-prefix](https://github.com/amansinghrp/DSA/tree/master/0014-longest-common-prefix) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+| [0516-longest-palindromic-subsequence](https://github.com/amansinghrp/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/amansinghrp/DSA/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/amansinghrp/DSA/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
+| [0516-longest-palindromic-subsequence](https://github.com/amansinghrp/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/amansinghrp/DSA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
