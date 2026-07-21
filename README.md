@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/amansinghrp/DSA/tree/master/0014-longest-common-prefix) |
 | [0038-count-and-say](https://github.com/amansinghrp/DSA/tree/master/0038-count-and-say) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+| [0165-compare-version-numbers](https://github.com/amansinghrp/DSA/tree/master/0165-compare-version-numbers) |
 | [0516-longest-palindromic-subsequence](https://github.com/amansinghrp/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [0686-repeated-string-match](https://github.com/amansinghrp/DSA/tree/master/0686-repeated-string-match) |
 | [1143-longest-common-subsequence](https://github.com/amansinghrp/DSA/tree/master/1143-longest-common-subsequence) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0165-compare-version-numbers](https://github.com/amansinghrp/DSA/tree/master/0165-compare-version-numbers) |
 | [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
 | [2193-minimum-number-of-moves-to-make-palindrome](https://github.com/amansinghrp/DSA/tree/master/2193-minimum-number-of-moves-to-make-palindrome) |
 ## Greedy
