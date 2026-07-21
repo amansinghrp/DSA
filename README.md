@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/amansinghrp/DSA/tree/master/0051-n-queens) |
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/amansinghrp/DSA/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/amansinghrp/DSA/tree/master/0455-assign-cookies) |
 ## Backtracking
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
+| [0152-maximum-product-subarray](https://github.com/amansinghrp/DSA/tree/master/0152-maximum-product-subarray) |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/amansinghrp/DSA/tree/master/0516-longest-palindromic-subsequence) |
 | [1143-longest-common-subsequence](https://github.com/amansinghrp/DSA/tree/master/1143-longest-common-subsequence) |
