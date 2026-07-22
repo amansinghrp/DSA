@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/amansinghrp/DSA/tree/master/0037-sudoku-solver) |
 | [0046-permutations](https://github.com/amansinghrp/DSA/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/amansinghrp/DSA/tree/master/0051-n-queens) |
+| [0064-minimum-path-sum](https://github.com/amansinghrp/DSA/tree/master/0064-minimum-path-sum) |
 | [0090-subsets-ii](https://github.com/amansinghrp/DSA/tree/master/0090-subsets-ii) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amansinghrp/DSA/tree/master/0152-maximum-product-subarray) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/amansinghrp/DSA/tree/master/0037-sudoku-solver) |
+| [0064-minimum-path-sum](https://github.com/amansinghrp/DSA/tree/master/0064-minimum-path-sum) |
 ## String
 |  |
 | ------- |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amansinghrp/DSA/tree/master/0005-longest-palindromic-substring) |
+| [0064-minimum-path-sum](https://github.com/amansinghrp/DSA/tree/master/0064-minimum-path-sum) |
 | [0072-edit-distance](https://github.com/amansinghrp/DSA/tree/master/0072-edit-distance) |
 | [0139-word-break](https://github.com/amansinghrp/DSA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/amansinghrp/DSA/tree/master/0152-maximum-product-subarray) |
