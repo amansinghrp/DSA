@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/amansinghrp/DSA/tree/master/0060-permutation-sequence) |
+| [0887-super-egg-drop](https://github.com/amansinghrp/DSA/tree/master/0887-super-egg-drop) |
 ## Recursion
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amansinghrp/DSA/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amansinghrp/DSA/tree/master/0322-coin-change) |
 | [0516-longest-palindromic-subsequence](https://github.com/amansinghrp/DSA/tree/master/0516-longest-palindromic-subsequence) |
+| [0887-super-egg-drop](https://github.com/amansinghrp/DSA/tree/master/0887-super-egg-drop) |
 | [1143-longest-common-subsequence](https://github.com/amansinghrp/DSA/tree/master/1143-longest-common-subsequence) |
 ## Trie
 |  |
@@ -110,4 +112,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/amansinghrp/DSA/tree/master/0300-longest-increasing-subsequence) |
+| [0887-super-egg-drop](https://github.com/amansinghrp/DSA/tree/master/0887-super-egg-drop) |
 <!---LeetCode Topics End-->
